@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "tl1-tp9-2025-monseeker/1.0.0": {
+      "LectorDirectorio/1.0.0": {
         "runtime": {
-          "tl1-tp9-2025-monseeker.dll": {}
+          "LectorDirectorio.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "tl1-tp9-2025-monseeker/1.0.0": {
+    "LectorDirectorio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Taller\\tl1-tp9-2025-monseeker\\tl1-tp9-2025-monseeker.csproj": {}
+    "C:\\Taller\\tl1-tp9-2025-monseeker\\LectorDirectorio\\LectorDirectorio.csproj": {}
   },
   "projects": {
-    "C:\\Taller\\tl1-tp9-2025-monseeker\\tl1-tp9-2025-monseeker.csproj": {
+    "C:\\Taller\\tl1-tp9-2025-monseeker\\LectorDirectorio\\LectorDirectorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Taller\\tl1-tp9-2025-monseeker\\tl1-tp9-2025-monseeker.csproj",
-        "projectName": "tl1-tp9-2025-monseeker",
-        "projectPath": "C:\\Taller\\tl1-tp9-2025-monseeker\\tl1-tp9-2025-monseeker.csproj",
+        "projectUniqueName": "C:\\Taller\\tl1-tp9-2025-monseeker\\LectorDirectorio\\LectorDirectorio.csproj",
+        "projectName": "LectorDirectorio",
+        "projectPath": "C:\\Taller\\tl1-tp9-2025-monseeker\\LectorDirectorio\\LectorDirectorio.csproj",
         "packagesPath": "C:\\Users\\CYNTHIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Taller\\tl1-tp9-2025-monseeker\\obj\\",
+        "outputPath": "C:\\Taller\\tl1-tp9-2025-monseeker\\LectorDirectorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CYNTHIA\\AppData\\Roaming\\NuGet\\NuGet.Config"

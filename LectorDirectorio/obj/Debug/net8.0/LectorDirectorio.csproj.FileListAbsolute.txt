@@ -1,0 +1,15 @@
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.exe
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.deps.json
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.runtimeconfig.json
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.dll
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.pdb
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfo.cs
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.sourcelink.json
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.dll
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\refint\LectorDirectorio.dll
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
+C:\Taller\tl1-tp9-2025-monseeker\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll

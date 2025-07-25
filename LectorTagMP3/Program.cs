@@ -2,7 +2,6 @@
 using System.Text;
 using EspacioTag;
 
-
 string direccionArchivo;
 
 while (true)

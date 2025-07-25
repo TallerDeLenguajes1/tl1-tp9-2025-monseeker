@@ -59,6 +59,7 @@ foreach (var archivo in archivosDelDirectorio)
     datosDeArchivo.Add(linea);
 }
 
+
 string nombreArchivoCSV = "reporte_archivos.csv";
 string direccionArchivoCSV = Path.Combine(direccionDirectorio, nombreArchivoCSV);
 File.WriteAllLines(direccionArchivoCSV, datosDeArchivo);
